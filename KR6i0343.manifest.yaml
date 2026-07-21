@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0343_000.yaml, hash: 'sha256:0cb0e2756acbc170613cfd819d711b807cf210504e9cda46031d05f8249c5203'}
+  - {seq: 0, filename: KR6i0343_000.yaml, hash: 'sha256:96c2e01783a8e218dbd0ce53a2a351d412ac3fbed59f3f9a86347c9ea5a08deb'}
   - {seq: 1, filename: KR6i0343_001.yaml, hash: 'sha256:a5936e7c006254f03b31f48009ac9c19dbb5707bf27a7e47ce94c63da23916a3'}
   - {seq: 2, filename: KR6i0343_002.yaml, hash: 'sha256:899a1f3862394dad8c86359dce3b9e54d8f6f4da84fafee86364ee5c06aac8bc'}
   - {seq: 3, filename: KR6i0343_003.yaml, hash: 'sha256:cee54434e3cd187071ebcd115d660fa21790bbfe94f9272dccfaafdfa600f5eb'}
@@ -31,7 +31,7 @@ assets:
   - {seq: 7, filename: KR6i0343_007.yaml, hash: 'sha256:fcb85b202bf2b87c7776f07e25eed85c59ccdcbdf534404da02fa9951ade17c8'}
   - {seq: 8, filename: KR6i0343_008.yaml, hash: 'sha256:3524f5961d81c9c7e6343695d53e2a9e086bc927f18c727219e4c9ca55dd72b9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0343_000.markers.yaml, hash: 'sha256:59e2cdc07002dbf34db66077317e0881ac39400b511dfc9e9f4a1e4a57ff7d44'}
+  - {seq: 0, role: markers, filename: assets/KR6i0343_000.markers.yaml, hash: 'sha256:0c83e03b4f85acfc84244c19c0b228aa118c9d4b768fa53f16d00ff828163bd7'}
   - {seq: 1, role: markers, filename: assets/KR6i0343_001.markers.yaml, hash: 'sha256:d9009ca1f8268df98f459d83140b28968cef51182d10e9095ab60d23e0e3b77c'}
   - {seq: 2, role: markers, filename: assets/KR6i0343_002.markers.yaml, hash: 'sha256:1d4038462fc6161de32f2fae0d4ff9d2b6fff7180756e279a4a86264da89d505'}
   - {seq: 3, role: markers, filename: assets/KR6i0343_003.markers.yaml, hash: 'sha256:d987934669761bb2500b906c4607d2beefffdc97b879042c8041344b54053c8f'}
@@ -45,7 +45,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0343_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 326-A 觀楞伽記略科題辭
@@ -55,7 +55,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0343_X_000-mulu-2
     span:
-    - front
+    - body
     - 282
     - 282
   label: No. 326-B 觀楞伽阿䟦多羅寶經記略科
@@ -251,7 +251,7 @@ table_of_contents:
   label: No. 326-D
   type: mulu
   level: 1
-hash: sha256:2d31af3b4817d5f4b5ef7a617e0f24ca9ef96e641b88df952099456c4f06e1c4
+hash: sha256:d36ec93af0c0274cd4d330e8392a8a062f37727706bbc4270a7425787cebbc5d
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
